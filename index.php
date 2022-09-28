@@ -3,7 +3,6 @@
 <head>
     <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/ovmhLiigaw4D9ujHYlHcKKhP/recaptcha__fr.js" crossorigin="anonymous" integrity="sha384-JVQNxkGPKeKRbUcuSPRx3Bw6W25LLryQSDLGeUFZ26bPROr3ja3ZNQphZY/r8PF6"></script>
     <script src="https://cdn.optimizely.com/public/4268742351/s/afbw.js"></script>
-    <base href="/login/">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="robots" content="noindex">
@@ -3762,6 +3761,8 @@
             <div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none; --darkreader-inline-border-top: #42474a; --darkreader-inline-border-right: #42474a; --darkreader-inline-border-bottom: #42474a; --darkreader-inline-border-left: #42474a;" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></textarea>
         </div><iframe style="display: none;"></iframe>
     </div>
+
+    
 </body>
 
 </html>
